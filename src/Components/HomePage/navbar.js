@@ -6,7 +6,7 @@ import {
     MenubarMenu,
     MenubarSeparator,
     MenubarTrigger,
-} from "@/components/ui/menubar"
+} from "@/Components/ui/menubar"
 import Link from "next/link";
 import { useRouter } from "next/router";
 export default function Navbar({ searchBar,setInputValue,inputValue,callApi,setCallApi }) {
