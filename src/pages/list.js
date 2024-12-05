@@ -1,4 +1,4 @@
-import ListPageParentComp from "../Components/listpage/index";
+import ListPageParentComp from "../my-components/listpage/index";
 export default function Home() {
   return (<ListPageParentComp/>);
 }

@@ -7,7 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/Components/ui/dialog"
+} from "@/my-components/ui/dialog"
 import React from "react";
 
 export function CustomDialog({data}) {
