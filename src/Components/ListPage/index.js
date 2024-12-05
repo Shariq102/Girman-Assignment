@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "../HomePage/navbar";
-import axios from "axios";
-import { dummyData } from "../dummyData";
 import { CustomDialog } from "./customDilog";
 import { useSearchParams } from "next/navigation";
 
