@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Navbar from "../HomePage/navbar";
+import Navbar from "../homepage/navbar";
 import { CustomDialog } from "./customDilog";
 import { useSearchParams } from "next/navigation";
 

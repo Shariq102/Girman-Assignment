@@ -1,4 +1,4 @@
-import HomePageParentComp from "../components/HomePage";
+import HomePageParentComp from "../components/homepage";
 
 export default function Home() {
   return (<HomePageParentComp/>);
