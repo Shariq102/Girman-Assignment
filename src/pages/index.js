@@ -1,5 +1,5 @@
-import HomePageParentComp from "../components/homepage";
+// import HomePageParentComp from "../components/homepage";
 
 export default function Home() {
-  return (<HomePageParentComp/>);
+  return <>djsdksnfkdsjfn</>
 }
