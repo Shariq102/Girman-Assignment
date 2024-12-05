@@ -34,7 +34,7 @@ export default function ListPageParentComp() {
     const [dataArray, setDataArray] = useState([]);
     const searchParams = useSearchParams();
     const searchValue = searchParams.get('search_value')
-    const [inputValue, setInputValue] = useState(searchValue);
+    const [inputValue, setInputValue] = useState(searchValue || '');
     const [callApi, setCallApi] = useState(false);
 
     useEffect(() => {
